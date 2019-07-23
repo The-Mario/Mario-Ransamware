@@ -6,12 +6,6 @@
 
 > Note 2: Unfortunatelly now some antiviruses (including Windows Defender) detects the unlocker as a virus. Disable any antivirus to play with the project.
 
-**Remember, security is always a double-edged sword**
-
-Demo video (Old version, without Tor support):
-
-[![DEMO](https://img.youtube.com/vi/qyyV1dgRgiY/0.jpg)](https://youtu.be/qyyV1dgRgiY)
-
 ### What is Ransomware?
 
 Ransomware is a type of malware that prevents or limits users from accessing their system, either by locking the system's screen or by locking the users' files unless a ransom is paid. More modern ransomware families, collectively categorized as crypto-ransomware, encrypt certain file types on infected systems and forces users to pay the ransom through certain online payment methods to get a decrypt key.
