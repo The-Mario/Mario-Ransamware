@@ -45,7 +45,7 @@ The malware encrypt with a RSA-4096 (RSA-OAEP-4096 + SHA256) public key any payl
 First of all download the project outside your $GOPATH:
 
 ```bash
-git clone github.com/mauri870/ransomware
+git clone https://github.com/mariohack1/Mario-Ransamware
 cd ransomware
 ```
 
