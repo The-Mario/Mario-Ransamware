@@ -46,7 +46,7 @@ First of all download the project outside your $GOPATH:
 
 ```bash
 git clone https://github.com/mariohack1/Mario-Ransamware
-cd ransomware
+cd Mario-Ransamware
 ```
 
 > If you have Docker skip to the next section.
